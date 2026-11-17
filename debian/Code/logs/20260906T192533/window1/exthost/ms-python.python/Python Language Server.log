@@ -1,0 +1,37 @@
+2026-09-06 19:26:20.788 [info] Client: Pylance client (2026.3.1) started with python extension (2026.4.0)
+2026-09-06 19:26:21.205 [info] (7621): Server root directory: file:///home/ni/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-06 19:26:21.206 [info] (7621): Pylance language server 2026.3.1 (pyright version 1.1.411, commit 9a9205fc) starting
+2026-09-06 19:26:21.211 [info] (7621): Starting service instance "ni" for workspace "/home/ni/ni"
+2026-09-06 19:26:22.102 [info] (7621): Loading background bundle file:///home/ni/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist/copilot-background.bundle.js into file:///home/ni/ni...
+2026-09-06 19:26:22.142 [info] (7621): Starting Mcp server id:54211 ...
+2026-09-06 19:26:22.164 [info] (7621): FG(ni): Setting environmentName for service "ni": "Python 3.13.5.final.0"
+2026-09-06 19:26:22.164 [info] (7621): FG(ni): Setting pythonPath for service "ni": "/usr/bin/python3"
+2026-09-06 19:26:22.164 [info] (7621): FG(ni): No include entries specified; assuming /home/ni/ni
+2026-09-06 19:26:22.165 [info] (7621): FG(ni): Auto-excluding **/node_modules
+2026-09-06 19:26:22.165 [info] (7621): FG(ni): Auto-excluding **/__pycache__
+2026-09-06 19:26:22.166 [info] (7621): FG(ni): Auto-excluding **/.*
+2026-09-06 19:26:22.192 [info] (7621): FG(ni): Assuming Python version 3.13.5.final.0
+2026-09-06 19:26:22.316 [info] (7621): FG(ni): Found 53 source files
+2026-09-06 19:26:22.369 [info] (7621): Settings have not changed. Skipping update.
+2026-09-06 19:26:22.374 [info] (7621): [Editable Installs] Starting dynamic pth file resolution for Python: /usr/bin/python3
+2026-09-06 19:26:22.406 [info] (7621): [Editable Installs] No sandbox available for Python /usr/bin/python3. Dynamic pth file resolution requires Python 3.13 or later.
+2026-09-06 19:26:22.598 [info] (7621): PQ(ni): Priority queue background worker(2) root directory: file:///home/ni/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-06 19:26:22.599 [info] (7621): PQ(ni): Priority queue background worker(2) started
+2026-09-06 19:26:47.582 [info] (7621): FG(ni): Found 54 source files
+2026-09-06 19:26:47.620 [info] (7621): FG(ni): IDX(ni): Indexer background runner(3) root directory: file:///home/ni/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist (index)
+2026-09-06 19:26:47.620 [info] (7621): FG(ni): IDX(ni): Indexing(3) started
+2026-09-06 19:26:48.103 [info] (7621): FG(ni): IDX(ni): scanned(3) 27 files over 1 exec env
+2026-09-06 19:26:48.239 [info] (7621): FG(ni): IDX(ni): indexed(3) 27 files over 1 exec env
+2026-09-06 19:26:48.242 [info] (7621): FG(ni): IDX(ni): Indexing finished(3).
+2026-09-06 19:28:44.748 [info] (7621): virtual workspace: vscode-terminal:/
+2026-09-06 19:28:44.748 [info] (7621): Starting service instance "<default>" for workspace "vscode-terminal:/"
+2026-09-06 19:28:44.808 [info] (7621): FG(<default>): Setting environmentName for service "<default>": "Python 3.13.5.final.0"
+2026-09-06 19:28:44.808 [info] (7621): FG(<default>): No include entries specified; assuming vscode-terminal:/
+2026-09-06 19:28:44.808 [info] (7621): FG(<default>): Auto-excluding **/node_modules
+2026-09-06 19:28:44.808 [info] (7621): FG(<default>): Auto-excluding **/__pycache__
+2026-09-06 19:28:44.808 [info] (7621): FG(<default>): Auto-excluding **/.*
+2026-09-06 19:28:44.818 [info] (7621): FG(<default>): Assuming Python version 3.13.5.final.0
+2026-09-06 19:28:44.883 [info] (7621): [Editable Installs] Starting dynamic pth file resolution for Python: 
+2026-09-06 19:28:44.895 [info] (7621): [Editable Installs] No sandbox available for Python . Dynamic pth file resolution requires Python 3.13 or later.
+2026-09-06 19:28:44.902 [info] (7621): FG(<default>): Skipping file enumeration for non-file URI scheme "vscode-terminal".
+2026-09-06 19:28:44.902 [info] (7621): FG(<default>): No source files found.

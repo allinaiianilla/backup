@@ -1,0 +1,76 @@
+2026-11-17 15:13:42.251 [info] Client: Pylance client (2026.3.1) started with python extension (2026.4.0)
+2026-11-17 15:13:42.805 [info] (19229): Server root directory: file:///home/ni/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-11-17 15:13:42.806 [info] (19229): Pylance language server 2026.3.1 (pyright version 1.1.411, commit 9a9205fc) starting
+2026-11-17 15:13:42.806 [info] (19229): Starting service instance "ni" for workspace "/home/ni/ni"
+2026-11-17 15:13:43.848 [info] (19229): Loading background bundle file:///home/ni/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist/copilot-background.bundle.js into file:///home/ni/ni...
+2026-11-17 15:13:43.912 [info] (19229): Starting Mcp server id:55037 ...
+2026-11-17 15:13:43.938 [info] (19229): FG(ni): Setting environmentName for service "ni": "Python 3.13.5.final.0"
+2026-11-17 15:13:43.938 [info] (19229): FG(ni): Setting pythonPath for service "ni": "/usr/bin/python3"
+2026-11-17 15:13:43.939 [info] (19229): FG(ni): No include entries specified; assuming /home/ni/ni
+2026-11-17 15:13:43.939 [info] (19229): FG(ni): Auto-excluding **/node_modules
+2026-11-17 15:13:43.939 [info] (19229): FG(ni): Auto-excluding **/__pycache__
+2026-11-17 15:13:43.940 [info] (19229): FG(ni): Auto-excluding **/.*
+2026-11-17 15:13:43.970 [info] (19229): FG(ni): Assuming Python version 3.13.5.final.0
+2026-11-17 15:13:44.118 [info] (19229): FG(ni): Found 54 source files
+2026-11-17 15:13:44.195 [info] (19229): Settings have not changed. Skipping update.
+2026-11-17 15:13:44.529 [info] (19229): PQ(ni): Priority queue background worker(2) root directory: file:///home/ni/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-11-17 15:13:44.529 [info] (19229): PQ(ni): Priority queue background worker(2) started
+2026-11-17 15:13:44.530 [info] (19229): [Editable Installs] Starting dynamic pth file resolution for Python: /usr/bin/python3
+2026-11-17 15:13:44.542 [info] (19229): [Editable Installs] No sandbox available for Python /usr/bin/python3. Dynamic pth file resolution requires Python 3.13 or later.
+2026-11-17 15:13:45.086 [info] (19229): FG(ni): IDX(ni): Indexer background runner(3) root directory: file:///home/ni/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist (index)
+2026-11-17 15:13:45.087 [info] (19229): FG(ni): IDX(ni): Indexing(3) started
+2026-11-17 15:13:45.664 [info] (19229): FG(ni): IDX(ni): scanned(3) 27 files over 1 exec env
+2026-11-17 15:13:45.827 [info] (19229): FG(ni): IDX(ni): indexed(3) 27 files over 1 exec env
+2026-11-17 15:13:45.831 [info] (19229): FG(ni): IDX(ni): Indexing finished(3).
+2026-11-17 15:14:29.438 [info] (19229): FG(ni): Found 55 source files
+2026-11-17 15:23:33.173 [info] (19229): Starting service instance "<default>" for workspace ""
+2026-11-17 15:23:33.173 [info] (19229): Loading background bundle file:///home/ni/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist/copilot-background.bundle.js into ...
+2026-11-17 15:23:33.219 [info] (19229): FG(<default>): Setting environmentName for service "<default>": "Python 3.13.5.final.0"
+2026-11-17 15:23:33.219 [info] (19229): FG(<default>): Setting pythonPath for service "<default>": "/usr/bin/python3"
+2026-11-17 15:23:33.219 [info] (19229): FG(<default>): No include entries specified; assuming /<default workspace root>
+2026-11-17 15:23:33.219 [info] (19229): FG(<default>): Auto-excluding **/node_modules
+2026-11-17 15:23:33.219 [info] (19229): FG(<default>): Auto-excluding **/__pycache__
+2026-11-17 15:23:33.219 [info] (19229): FG(<default>): Auto-excluding **/.*
+2026-11-17 15:23:33.249 [info] (19229): FG(<default>): Assuming Python version 3.13.5.final.0
+2026-11-17 15:23:33.313 [error] (19229): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2026-11-17 15:23:33.313 [info] (19229): FG(<default>): No source files found.
+2026-11-17 15:23:33.612 [info] (19229): PQ(<default>): Priority queue background worker(5) root directory: file:///home/ni/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-11-17 15:23:33.614 [info] (19229): PQ(<default>): Priority queue background worker(5) started
+2026-11-17 15:29:42.806 [info] (19229): Settings have not changed. Skipping update.
+2026-11-17 15:29:42.807 [info] (19229): Settings have not changed. Skipping update.
+2026-11-17 15:35:54.446 [info] (19229): virtual workspace: vscode-terminal:/
+2026-11-17 15:35:54.447 [info] (19229): Starting service instance "<default>" for workspace "vscode-terminal:/"
+2026-11-17 15:35:54.500 [info] (19229): FG(<default>): Setting environmentName for service "<default>": "Python 3.13.5.final.0"
+2026-11-17 15:35:54.500 [info] (19229): FG(<default>): No include entries specified; assuming vscode-terminal:/
+2026-11-17 15:35:54.501 [info] (19229): FG(<default>): Auto-excluding **/node_modules
+2026-11-17 15:35:54.501 [info] (19229): FG(<default>): Auto-excluding **/__pycache__
+2026-11-17 15:35:54.501 [info] (19229): FG(<default>): Auto-excluding **/.*
+2026-11-17 15:35:54.541 [info] (19229): FG(<default>): Assuming Python version 3.13.5.final.0
+2026-11-17 15:35:54.595 [info] (19229): [Editable Installs] Starting dynamic pth file resolution for Python: 
+2026-11-17 15:35:54.606 [info] (19229): [Editable Installs] No sandbox available for Python . Dynamic pth file resolution requires Python 3.13 or later.
+2026-11-17 15:35:54.613 [info] (19229): FG(<default>): Skipping file enumeration for non-file URI scheme "vscode-terminal".
+2026-11-17 15:35:54.613 [info] (19229): FG(<default>): No source files found.
+2026-11-17 15:43:11.253 [info] (19229): virtual workspace: vscode-terminal:/
+2026-11-17 15:43:11.254 [info] (19229): Starting service instance "<default>" for workspace "vscode-terminal:/"
+2026-11-17 15:43:11.297 [info] (19229): FG(<default>): Setting environmentName for service "<default>": "Python 3.13.5.final.0"
+2026-11-17 15:43:11.297 [info] (19229): FG(<default>): No include entries specified; assuming vscode-terminal:/
+2026-11-17 15:43:11.298 [info] (19229): FG(<default>): Auto-excluding **/node_modules
+2026-11-17 15:43:11.298 [info] (19229): FG(<default>): Auto-excluding **/__pycache__
+2026-11-17 15:43:11.298 [info] (19229): FG(<default>): Auto-excluding **/.*
+2026-11-17 15:43:11.326 [info] (19229): FG(<default>): Assuming Python version 3.13.5.final.0
+2026-11-17 15:43:11.429 [info] (19229): FG(<default>): Skipping file enumeration for non-file URI scheme "vscode-terminal".
+2026-11-17 15:43:11.429 [info] (19229): FG(<default>): No source files found.
+2026-11-17 15:53:48.643 [info] (19229): Settings have not changed. Skipping update.
+2026-11-17 15:53:48.644 [info] (19229): Settings have not changed. Skipping update.
+2026-11-17 16:02:05.278 [info] (19229): FG(ni): Found 55 source files
+2026-11-17 16:05:41.450 [info] (19229): FG(ni): Found 55 source files
+2026-11-17 16:06:57.681 [info] (19229): virtual workspace: vscode-terminal:/
+2026-11-17 16:06:57.681 [info] (19229): Starting service instance "<default>" for workspace "vscode-terminal:/"
+2026-11-17 16:06:57.721 [info] (19229): FG(<default>): Setting environmentName for service "<default>": "Python 3.13.5.final.0"
+2026-11-17 16:06:57.721 [info] (19229): FG(<default>): No include entries specified; assuming vscode-terminal:/
+2026-11-17 16:06:57.721 [info] (19229): FG(<default>): Auto-excluding **/node_modules
+2026-11-17 16:06:57.721 [info] (19229): FG(<default>): Auto-excluding **/__pycache__
+2026-11-17 16:06:57.721 [info] (19229): FG(<default>): Auto-excluding **/.*
+2026-11-17 16:06:57.757 [info] (19229): FG(<default>): Assuming Python version 3.13.5.final.0
+2026-11-17 16:06:57.842 [info] (19229): FG(<default>): Skipping file enumeration for non-file URI scheme "vscode-terminal".
+2026-11-17 16:06:57.842 [info] (19229): FG(<default>): No source files found.

@@ -1,0 +1,6 @@
+2026/11/17-09:15:18.273 ac3 Reusing MANIFEST /home/ni/.config/google-chrome/Default/IndexedDB/https_www.workbuddy.cn_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/17-09:15:18.274 ac3 Recovering log #3
+2026/11/17-09:15:18.277 ac3 Reusing old log /home/ni/.config/google-chrome/Default/IndexedDB/https_www.workbuddy.cn_0.indexeddb.leveldb/000003.log 
+2026/11/17-10:11:34.642 ac6 Level-0 table #5: started
+2026/11/17-10:11:34.699 ac6 Level-0 table #5: 1146776 bytes OK
+2026/11/17-10:11:34.714 ac6 Delete type=0 #3

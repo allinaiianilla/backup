@@ -1,0 +1,135 @@
+2026-08-13 08:25:53.763 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-08-13 08:25:53.791 [warning] Creation of workbench contribution 'workbench.contrib.agentHostPrewarm' took 23ms.
+2026-08-13 08:25:54.321 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-08-13 08:25:54.371 [info] Started local extension host with pid 4434.
+2026-08-13 08:25:54.440 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ni/.vscode/extensions
+2026-08-13 08:25:54.586 [info] [AgentHost:renderer] Protocol connection established; clientId=5a779c27-55bf-45d0-97f3-2c9e4aa4687e
+2026-08-13 08:25:54.659 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ni/.vscode/extensions
+2026-08-13 08:25:54.692 [error] [vscode.mermaid-markdown-features]: Extension 'vscode.mermaid-markdown-features' CANNOT use 'legacyToolReferenceFullNames' without the 'chatParticipantPrivate' API proposal enabled
+2026-08-13 08:25:55.001 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-13 08:25:55.515 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-08-13 08:25:56.212 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.213 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.213 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.214 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.214 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.215 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.216 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.216 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.216 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.217 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.217 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.279 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.280 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.281 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.281 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.282 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.358 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.358 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.359 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.360 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.360 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.360 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.384 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.384 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.384 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.384 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.384 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.401 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.402 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.402 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.402 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.403 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.403 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-13 08:25:56.405 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.405 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.405 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.405 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.406 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.406 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.406 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.406 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.406 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.406 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:56.406 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-13 08:25:57.544 [info] [perf] Render performance baseline is 24ms
+2026-08-13 08:25:58.379 [error] [Extension Host] (node:4434) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-08-13 08:26:00.002 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-13 08:26:35.899 [info] [AgentHost] Authenticating for resource: https://api.github.com
+2026-08-13 08:26:35.910 [info] [AgentHost] Authenticating for resource: https://api.github.com/repos
+2026-08-13 08:26:36.398 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-08-13 08:26:42.768 [info] [ChatModelSelection] event=select-default surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/ZGY0YTZmYzQtOWJkOS00Yzc2LTk1YjUtYzJkZTM5MDdhODUw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view" configuredModel=undefined defaultModel="copilot/auto" currentModel=undefined
+2026-08-13 08:27:18.555 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-08-13 08:27:18.556 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-08-13 08:27:19.205 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-08-13 08:27:19.308 [info] [ChatModelSelection] event=initialize surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view" configuredModel=undefined rememberedModel=undefined availableModels="copilot/auto" selection="apply" resultModel="copilot/auto" resultReason="firstAvailable" pendingReference=undefined
+2026-08-13 08:27:19.503 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-08-13 08:27:19.574 [info] Started local extension host with pid 5251.
+2026-08-13 08:27:19.615 [info] [AgentHost:renderer] Protocol connection established; clientId=ea73765c-0eeb-4302-a1c8-e6ec43c67775
+2026-08-13 08:27:19.988 [error] [vscode.mermaid-markdown-features]: Extension 'vscode.mermaid-markdown-features' CANNOT use 'legacyToolReferenceFullNames' without the 'chatParticipantPrivate' API proposal enabled
+2026-08-13 08:27:20.509 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-13 08:27:20.674 [info] [AgentHost] Authenticating for resource: https://api.github.com
+2026-08-13 08:27:20.690 [info] [AgentHost] Authenticating for resource: https://api.github.com/repos
+2026-08-13 08:27:20.879 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-08-13 08:27:21.701 [error] [Extension Host] (node:5251) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-08-13 08:27:22.383 [info] [perf] Render performance baseline is 26ms
+2026-08-13 08:27:25.510 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-13 08:27:41.536 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-08-13 08:28:44.165 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-08-13 08:28:52.763 [error] Tool "renderMermaidDiagram" was not contributed.
+2026-08-13 08:29:20.834 [error] Cancelled: Canceled: Canceled
+    at Vut.getLatestRawGalleryExtension (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2060:53485)
+    at async Vut.getLatestRawGalleryExtensionWithFallback (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2060:51989)
+    at async Vut.getLatestGalleryExtension (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2060:40444)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2060:39532
+    at async Promise.all (index 1)
+    at async Vut.getExtensionsUsingResourceApi (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2060:39486)
+    at async Vut.getExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2060:37948)
+    at async UX.getExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3873:22659)
+    at async eri.getInstallableRecommendations (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3869:21589)
+    at async eri.getAllRecommendationsModel (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3869:25230)
+    at async eri.queryGallery (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3869:17310)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3869:6589
+2026-08-13 08:30:41.346 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-08-13 08:41:30.230 [error] Make sure the ref is set before accessing the element. Maybe wrong initialization order?: Error: Make sure the ref is set before accessing the element. Maybe wrong initialization order?
+    at l.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:439:24258)
+    at iie.triggerAnimation (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:990:120847)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:990:123148
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:26241
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:26142
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:26052
+    at yU._runFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:9361)
+    at yU._run (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:6694)
+    at yU.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:7325)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at aW.finish (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:110608)
+    at lO.set (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:2882)
+    at new QMe (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:990:122665)
+    at s._createInstance (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2139:2000)
+    at s.createInstance (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2139:1440)
+    at PS._computeFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:997:854)
+    at PS._recompute (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:13168)
+    at PS.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:12502)
+    at PS.reportChanges (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:497)
+    at uDt.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:22977)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at PS.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at U_e.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:14169)
+    at aW.finish (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:110608)
+    at Li (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:109808)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:983:23042
+2026-08-13 09:39:33.549 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-08-13 09:39:36.521 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-08-13 09:39:36.521 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-08-13 09:39:36.665 [error] [AgentHost] Failed to authenticate with server Canceled
+2026-08-13 09:39:36.665 [error] [AgentHost] Failed to authenticate with server Canceled

@@ -1,0 +1,82 @@
+2026-11-05 21:03:48.776 [info] Python-envs extension version: 1.36.0
+2026-11-05 21:03:48.776 [info] 
+=== Python Envs Configuration Levels ===
+2026-11-05 21:03:48.776 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2026-11-05 21:03:48.776 [info] [pet] Starting Python Locator /home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/python-env-tools/bin/pet server
+2026-11-05 21:03:48.776 [info] Registering pyenv manager (environments will be discovered lazily)
+2026-11-05 21:03:48.776 [info] Registering pipenv manager (environments will be discovered lazily)
+2026-11-05 21:03:48.776 [info] Registering poetry manager (environments will be discovered lazily)
+2026-11-05 21:03:48.776 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/ni/ni"],"environmentDirectories":["/home/ni/ni/.venv","/home/ni/ni/*/.venv"],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/ni/.config/Code/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-11-05 21:03:48.818 [info] Discovered env: /home/ni/.venv/bin/python
+2026-11-05 21:03:48.826 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-11-05 21:03:48.827 [info] Discovered env: /usr/bin/python3
+2026-11-05 21:03:48.844 [info] Found venv environment: .venv (3.13.5.final.0)
+2026-11-05 21:03:48.950 [info] Extension for manager ms-python.python:venv is not active: Activating...
+2026-11-05 21:03:48.950 [info] Discovered env: /home/ni/.venv/bin/python
+2026-11-05 21:03:48.972 [info] Extension for manager ms-python.python:venv is now active.
+2026-11-05 21:03:49.001 [info] Discovered env: /usr/bin/python3
+2026-11-05 21:03:49.003 [info] Refreshing Pyenv Environments
+2026-11-05 21:03:49.003 [info] Refreshing pyenv environments
+2026-11-05 21:03:49.003 [info] Refreshing Pipenv Environments
+2026-11-05 21:03:49.003 [info] Refreshing pipenv environments
+2026-11-05 21:03:49.003 [info] Refreshing Poetry Environments
+2026-11-05 21:03:49.003 [info] Refreshing poetry environments
+2026-11-05 21:03:49.091 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-11-05 21:03:49.093 [info] Conda not found, turning off conda features. [Error: Conda not found
+	at L (/home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:629081)
+	at async V (/home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:629206)
+	at async t.registerCondaFeatures (/home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:648591)
+	at async t.safeRegister (/home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:290365)
+	at async Promise.all (index 1)
+	at async Immediate.<anonymous> (/home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:782813)]
+2026-11-05 21:03:49.097 [info] [interpreterSelection] Applying initial environment selection for 1 workspace folder(s)
+2026-11-05 21:03:49.099 [info] [SYS_SET] scope=/home/ni/ni, project=/home/ni/ni, normalizedKey=/home/ni/ni, env=Python 3.13.5.final.0-997ix1kd6ij
+2026-11-05 21:03:50.008 [info] Discovered env: /home/ni/.venv/bin/python
+2026-11-05 21:03:50.009 [info] Python API: Changed environment from undefined to Python 3.13.5.final.0 for: /home/ni/ni
+2026-11-05 21:03:50.009 [info] Internal: Changed environment from undefined to Python 3.13.5.final.0 for: /home/ni/ni
+2026-11-05 21:03:50.009 [info] [interpreterSelection] ni: Python 3.13.5.final.0 (source: autoDiscovery)
+2026-11-05 21:03:50.009 [info] [interpreterSelection] Workspace env resolved, deferring global scope to background
+2026-11-05 21:03:50.029 [info] Discovered env: /usr/bin/python3
+2026-11-05 21:03:50.294 [info] Python API: Changed environment from undefined to Python 3.13.5.final.0 for: global
+2026-11-05 21:03:50.294 [info] Internal: Changed environment from undefined to Python 3.13.5.final.0 for: global
+2026-11-05 21:03:50.294 [info] [interpreterSelection] global: Python 3.13.5.final.0 (source: autoDiscovery)
+2026-11-05 21:03:50.357 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-11-05 21:03:50.379 [info] Discovered env: /home/ni/.venv/bin/python
+2026-11-05 21:03:50.381 [info] Refreshing pyenv environments
+2026-11-05 21:03:50.385 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-11-05 21:03:50.397 [info] Discovered env: /usr/bin/python3
+2026-11-05 21:03:50.397 [info] Pipenv not found via settings, cache, or PATH
+2026-11-05 21:03:50.397 [info] Refreshing pipenv environments
+2026-11-05 21:03:50.406 [info] Pipenv not found via settings, cache, or PATH
+2026-11-05 21:03:50.406 [info] Found 0 pipenv environments
+2026-11-05 21:03:50.407 [info] Found venv environment: .venv (3.13.5.final.0)
+2026-11-05 21:03:50.413 [info] Discovered env: /home/ni/.venv/bin/python
+2026-11-05 21:03:50.426 [info] Pipenv not found via settings, cache, or PATH
+2026-11-05 21:03:50.430 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-11-05 21:03:50.431 [info] Refreshing poetry environments
+2026-11-05 21:03:50.432 [info] Poetry executable not found
+2026-11-05 21:03:50.434 [info] Discovered env: /usr/bin/python3
+2026-11-05 21:03:50.435 [info] Environment discovery complete: 2 environments found (Global: 1, venv: 1)
+2026-11-05 21:03:50.451 [info] Discovered env: /home/ni/.venv/bin/python
+2026-11-05 21:03:50.458 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-11-05 21:03:50.470 [info] Discovered env: /usr/bin/python3
+2026-11-05 21:03:50.479 [info] Pipenv not found via settings, cache, or PATH
+2026-11-05 21:03:50.479 [info] Found 0 pipenv environments
+2026-11-05 21:03:50.485 [info] Discovered env: /home/ni/.venv/bin/python
+2026-11-05 21:03:50.493 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-11-05 21:03:50.504 [info] Discovered env: /usr/bin/python3
+2026-11-05 21:03:50.511 [info] Poetry executable not found

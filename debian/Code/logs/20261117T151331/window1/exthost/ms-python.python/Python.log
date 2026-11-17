@@ -1,0 +1,18 @@
+2026-11-17 15:13:37.447 [info] Environment discovery is managed by the Python Environments extension (ms-python.vscode-python-envs). Check the "Python Environments" output channel for environment-specific logs.
+2026-11-17 15:13:37.557 [info] [test-by-project] Activating project-based testing mode
+2026-11-17 15:13:37.557 [info] [test-by-project] Discovering projects for workspace: /home/ni/ni
+2026-11-17 15:13:37.558 [info] Native locator: Refresh started
+2026-11-17 15:13:37.558 [info] [test-by-project] Found 1 total Python projects from API
+2026-11-17 15:13:37.558 [info] [test-by-project] Filtered to 1 projects in workspace
+2026-11-17 15:13:37.558 [info] [test-by-project] Creating adapter for: ni at file:///home/ni/ni
+2026-11-17 15:13:37.700 [info] > pyenv which python
+2026-11-17 15:13:37.700 [info] cwd: .
+2026-11-17 15:13:38.879 [info] Active interpreter [/home/ni/ni]:  /usr/bin/python3
+2026-11-17 15:13:38.879 [info] [test-by-project] Registered 1 project(s) for /home/ni/ni
+2026-11-17 15:13:38.882 [info] [test-by-project] Activated 1 project(s) for /home/ni/ni
+2026-11-17 15:13:38.883 [info] [test-by-project] Subscribed to Python project changes
+2026-11-17 15:13:39.146 [info] Native locator: Refresh finished in 1589 ms
+2026-11-17 15:13:42.841 [info] Starting Pylance language server.
+2026-11-17 15:29:42.834 [error] Unable to find workspace for given file
+2026-11-17 15:53:48.193 [error] Unable to find workspace for given file
+2026-11-17 15:53:48.612 [info] Active interpreter [/home/ni/ni]:  /home/ni/.venv/bin/python

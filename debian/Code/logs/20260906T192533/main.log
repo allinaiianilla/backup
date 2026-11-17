@@ -1,0 +1,19 @@
+2026-09-06 19:25:33.354 [info] StorageMainService: creating application shared storage
+2026-09-06 19:25:33.435 [info] [shared storage] Creating shared storage database at '/home/ni/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-09-06 19:25:33.436 [info] [shared storage] Initializing fallback application storage (path: /home/ni/.config/Code/User/globalStorage/state.vscdb)
+2026-09-06 19:25:33.514 [info] [shared storage] Fallback application storage initialized with 114 items
+2026-09-06 19:25:34.667 [info] update#setState idle
+2026-09-06 19:25:34.730 [info] AgentHostProcessManager: agent host started
+2026-09-06 19:25:35.106 [error] [AgentHost:stderr] (node:6371) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+
+2026-09-06 19:25:55.968 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/a44adf7f53e00964ab890f9f8758a334f1fc15bc?u=none - error undefined net::ERR_CONNECTION_CLOSED
+2026-09-06 19:25:55.968 [error] update#isLatestVersion(): failed to check for updates
+2026-09-06 19:25:55.969 [error] Error: net::ERR_CONNECTION_CLOSED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:138348)
+    at SimpleURLLoaderWrapper.emit (node:events:509:28)
+2026-09-06 19:26:04.668 [info] update#setState checking for updates
+2026-09-06 19:26:05.340 [info] update#setState idle
+2026-09-06 20:26:04.670 [info] update#setState checking for updates
+2026-09-06 20:26:05.241 [info] update#setState idle
+2026-09-06 21:08:22.640 [info] Extension host with pid 6437 exited with code: 0, signal: unknown.

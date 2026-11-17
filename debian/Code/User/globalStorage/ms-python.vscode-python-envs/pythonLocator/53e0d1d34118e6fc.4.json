@@ -1,0 +1,39 @@
+{
+  "environment": {
+    "executable": "/home/ni/.venv/bin/python",
+    "prefix": "/home/ni/.venv",
+    "version": "3.13.5.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/ni/.venv/bin/python",
+      "/home/ni/.venv/bin/python3",
+      "/home/ni/.venv/bin/python3.13"
+    ]
+  },
+  "symlinks": [
+    [
+      "/home/ni/.venv/bin/python",
+      {
+        "secs_since_epoch": 1784147140,
+        "nanos_since_epoch": 0
+      },
+      null
+    ],
+    [
+      "/home/ni/.venv/bin/python3",
+      {
+        "secs_since_epoch": 1784147140,
+        "nanos_since_epoch": 0
+      },
+      null
+    ],
+    [
+      "/home/ni/.venv/bin/python3.13",
+      {
+        "secs_since_epoch": 1784147140,
+        "nanos_since_epoch": 0
+      },
+      null
+    ]
+  ]
+}

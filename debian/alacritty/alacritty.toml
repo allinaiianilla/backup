@@ -1,0 +1,52 @@
+[window]
+dimensions = { columns = 80, lines = 30 }
+startup_mode = "Windowed"
+
+[font]
+size = 10.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+style = "Bold Italic"
+
+[colors.primary]
+background = "#ffffff"
+foreground = "#24292e"
+
+[colors.normal]
+black   = "#24292e"
+red     = "#d73a49"
+green   = "#28a745"
+yellow  = "#dbab09"
+blue    = "#005cc5"
+magenta = "#5a32a3"
+cyan    = "#057cb0"
+white   = "#6a737d"
+
+[colors.bright]
+black   = "#959da5"
+red     = "#cb2431"
+green   = "#22863a"
+yellow  = "#b08800"
+blue    = "#032f62"
+magenta = "#4c2889"
+cyan    = "#3192aa"
+white   = "#f6f8fa"
+
+[terminal]
+
+[terminal.shell]
+# program = "/home/ni/.local/bin/alacritty-start.sh"
+program = "/home/ni/.config/alacritty/alacritty-start.sh"

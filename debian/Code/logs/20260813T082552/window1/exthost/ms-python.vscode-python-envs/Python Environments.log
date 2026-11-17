@@ -1,0 +1,182 @@
+2026-08-13 08:29:48.815 [info] Python-envs extension version: 1.36.0
+2026-08-13 08:29:48.815 [info] 
+=== Python Envs Configuration Levels ===
+2026-08-13 08:29:48.815 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2026-08-13 08:29:48.815 [info] [pet] Starting Python Locator /home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/python-env-tools/bin/pet server
+2026-08-13 08:29:48.815 [info] Registering pyenv manager (environments will be discovered lazily)
+2026-08-13 08:29:48.815 [info] Registering pipenv manager (environments will be discovered lazily)
+2026-08-13 08:29:48.815 [info] Registering poetry manager (environments will be discovered lazily)
+2026-08-13 08:29:48.826 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/ni/ni"],"environmentDirectories":["/home/ni/ni/.venv","/home/ni/ni/*/.venv"],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/ni/.config/Code/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-08-13 08:29:48.854 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:29:48.908 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:29:48.910 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:29:48.943 [info] Conda not found, turning off conda features. [Error: Conda not found
+	at L (/home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:629081)
+	at runNextTicks (node:internal/process/task_queues:65:5)
+	at process.processImmediate (node:internal/timers:472:9)
+	at async V (/home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:629206)
+	at async t.registerCondaFeatures (/home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:648591)
+	at async t.safeRegister (/home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:290365)
+	at async Promise.all (index 1)
+	at async Immediate.<anonymous> (/home/ni/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:782813)]
+2026-08-13 08:29:48.946 [info] [interpreterSelection] Applying initial environment selection for 1 workspace folder(s)
+2026-08-13 08:29:48.948 [info] Found venv environment: .venv (3.13.5.final.0)
+2026-08-13 08:29:48.950 [info] [SYS_SET] scope=/home/ni/ni, project=/home/ni/ni, normalizedKey=/home/ni/ni, env=Python 3.13.5.final.0-pwzfhha0z4d
+2026-08-13 08:29:48.953 [info] Python API: Changed environment from undefined to Python 3.13.5.final.0 for: /home/ni/ni
+2026-08-13 08:29:48.954 [info] Internal: Changed environment from undefined to Python 3.13.5.final.0 for: /home/ni/ni
+2026-08-13 08:29:48.954 [info] [interpreterSelection] ni: Python 3.13.5.final.0 (source: autoDiscovery)
+2026-08-13 08:29:48.954 [info] [interpreterSelection] Workspace env resolved, deferring global scope to background
+2026-08-13 08:29:48.964 [info] Python API: Changed environment from undefined to Python 3.13.5.final.0 for: global
+2026-08-13 08:29:48.964 [info] Internal: Changed environment from undefined to Python 3.13.5.final.0 for: global
+2026-08-13 08:29:48.964 [info] [interpreterSelection] global: Python 3.13.5.final.0 (source: autoDiscovery)
+2026-08-13 08:29:48.965 [info] Refreshing pyenv environments
+2026-08-13 08:29:48.969 [info] Pipenv not found via settings, cache, or PATH
+2026-08-13 08:29:48.970 [info] Refreshing pipenv environments
+2026-08-13 08:29:48.971 [info] Pipenv not found via settings, cache, or PATH
+2026-08-13 08:29:48.971 [info] Found 0 pipenv environments
+2026-08-13 08:29:48.972 [info] Pipenv not found via settings, cache, or PATH
+2026-08-13 08:29:48.976 [info] Refreshing poetry environments
+2026-08-13 08:29:48.977 [info] Poetry executable not found
+2026-08-13 08:29:48.978 [info] Environment discovery complete: 2 environments found (Global: 1, venv: 1)
+2026-08-13 08:29:49.750 [info] Refreshing Pyenv Environments
+2026-08-13 08:29:49.750 [info] Refreshing pyenv environments
+2026-08-13 08:29:49.750 [info] Refreshing Pipenv Environments
+2026-08-13 08:29:49.750 [info] Refreshing pipenv environments
+2026-08-13 08:29:49.750 [info] Refreshing Poetry Environments
+2026-08-13 08:29:49.750 [info] Refreshing poetry environments
+2026-08-13 08:29:49.783 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:29:49.840 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:29:49.840 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:29:49.857 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:29:49.864 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:29:49.874 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:29:49.882 [info] Found venv environment: .venv (3.13.5.final.0)
+2026-08-13 08:29:49.887 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:29:49.897 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:29:49.917 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:29:49.931 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:29:49.938 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:29:49.957 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:29:49.967 [info] Pipenv not found via settings, cache, or PATH
+2026-08-13 08:29:49.967 [info] Found 0 pipenv environments
+2026-08-13 08:29:49.973 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:29:49.979 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:29:49.990 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:29:49.995 [info] Poetry executable not found
+2026-08-13 08:30:11.942 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:11.951 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:11.958 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:11.966 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:11.973 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:17.880 [info] runInTerminal: sendText /usr/bin/python3 /home/ni/ni/project/mycli/aichat.py
+2026-08-13 08:30:18.317 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:18.332 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:18.350 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:18.359 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:18.390 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:18.978 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:18.986 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:18.995 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:19.002 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:19.009 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:40.895 [info] runInTerminal: executeCommand /usr/bin/python3 /home/ni/ni/project/mycli/aichat.py
+2026-08-13 08:30:40.934 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:40.942 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:40.949 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:40.963 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:30:40.970 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:03.182 [info] runInTerminal: executeCommand /usr/bin/python3 /home/ni/ni/project/mycli/aichat.py
+2026-08-13 08:31:03.205 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:03.214 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:03.222 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:03.228 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:03.236 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:13.688 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:13.695 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:13.703 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:13.712 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:13.719 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:21.474 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:21.481 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:21.488 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:21.494 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:21.500 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:26.615 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:26.623 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:26.631 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:26.639 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:26.646 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:30.799 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:30.807 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:30.813 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:30.820 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:30.827 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:34.057 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:34.064 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:34.070 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:34.076 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:34.082 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:49.773 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:49.782 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:49.788 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:49.795 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:49.801 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:55.755 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:55.766 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:55.774 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:55.780 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:31:55.787 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:32:03.970 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:32:03.977 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:32:03.984 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:32:03.990 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:32:03.997 [info] Resolved Python Environment /usr/bin/python3
+2026-08-13 08:35:30.188 [info] Refreshing Pyenv Environments
+2026-08-13 08:35:30.188 [info] Refreshing pyenv environments
+2026-08-13 08:35:30.188 [info] Refreshing Pipenv Environments
+2026-08-13 08:35:30.188 [info] Refreshing pipenv environments
+2026-08-13 08:35:30.188 [info] Refreshing Poetry Environments
+2026-08-13 08:35:30.188 [info] Refreshing poetry environments
+2026-08-13 08:35:30.208 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:35:30.215 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:35:30.225 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:35:30.244 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:35:30.250 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:35:30.267 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:35:30.276 [info] Found venv environment: .venv (3.13.5.final.0)
+2026-08-13 08:35:30.282 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:35:30.289 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:35:30.300 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:35:30.312 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:35:30.319 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:35:30.331 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:35:30.339 [info] Pipenv not found via settings, cache, or PATH
+2026-08-13 08:35:30.339 [info] Found 0 pipenv environments
+2026-08-13 08:35:30.341 [info] Discovered env: /home/ni/.venv/bin/python
+2026-08-13 08:35:30.347 [info] Resolved environment during PET refresh: /home/ni/.venv/bin/python
+2026-08-13 08:35:30.362 [info] Discovered env: /usr/bin/python3
+2026-08-13 08:35:30.369 [info] Poetry executable not found
+2026-08-13 08:35:37.775 [info] Python API: Changed environment from Python 3.13.5.final.0 to .venv (3.13.5.final.0) for: /home/ni/ni
+2026-08-13 08:35:37.775 [info] Internal: Changed environment from Python 3.13.5.final.0 to .venv (3.13.5.final.0) for: /home/ni/ni
+2026-08-13 08:36:01.759 [info] Terminal is activated: /home/ni/.venv/bin/python
+2026-08-13 08:36:01.760 [info] runInTerminal: executeCommand /home/ni/.venv/bin/python /home/ni/ni/project/mycli/aichat.py
+2026-08-13 08:42:29.033 [error] Shell execution timed out:  source /home/ni/.venv/bin/activate
+2026-08-13 08:42:29.033 [info] Terminal is activated: /home/ni/.venv/bin/python
+2026-08-13 08:43:00.893 [error] Shell execution timed out:  source /home/ni/.venv/bin/activate
+2026-08-13 08:43:00.893 [info] Terminal is activated: /home/ni/.venv/bin/python
+2026-08-13 08:43:21.388 [info] Terminal is activated: /home/ni/.venv/bin/python
+2026-08-13 08:43:21.389 [info] runInTerminal: executeCommand /home/ni/.venv/bin/python /home/ni/ni/project/mycli/aichat.py

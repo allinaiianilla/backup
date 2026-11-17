@@ -1,0 +1,50 @@
+2026-09-06 19:25:35.074 [info] Agent Host process started successfully
+2026-09-06 19:25:35.089 [info] AgentService initialized
+2026-09-06 19:25:35.094 [info] Registering agent provider: copilotcli
+2026-09-06 19:25:35.096 [info] Registering agent provider: claude
+2026-09-06 19:25:35.100 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-06 19:25:35.113 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-09-06 19:25:35.129 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-080187cd835a/5Pv9SaaAYBjyKbcRCacWrw.sock
+2026-09-06 19:25:35.155 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-09-06 19:25:35.243 [info] [Copilot] Listing chats to migrate...
+2026-09-06 19:25:35.244 [info] [Copilot] Starting CopilotClient...
+2026-09-06 19:25:35.244 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-09-06 19:25:35.247 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-09-06 19:25:35.257 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-06 19:25:35.286 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-06 19:25:35.379 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-06 19:25:35.440 [info] [ProtocolServer] Initialize: clientId=50917689-3a51-48c5-a269-54d6bd0b7aa9, protocolVersions=[1.0.0, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-09-06 19:25:35.494 [info] [AgentService] showExternalSessions changed 'none' -> 'recent'; queueing session list reconciliation
+2026-09-06 19:25:36.298 [info] [Copilot] CopilotClient started successfully
+2026-09-06 19:25:36.300 [info] [Copilot] Listed 0 SDK session(s) for chats to migrate
+2026-09-06 19:25:36.300 [info] [Copilot] Found 0 legacy sessions
+2026-09-06 19:25:36.338 [info] [Copilot] Listing discoverable chats...
+2026-09-06 19:25:36.340 [info] [Copilot] Listed 0 SDK session(s) for discoverable chats
+2026-09-06 19:25:36.340 [info] [AgentService] pruned 0 stale external session row(s) older than 30 days
+2026-09-06 19:25:36.340 [info] [Copilot] Chat discovery: 0 SDK session(s) -> 0 external, 0 adoptable legacy extension-host, 0 suppressed adoptable legacy extension-host, 0 suppressed archived legacy extension-host, 0 already known to Agent Host, 0 without a working directory, 0 with unsupported or missing client name, 0 outside the import window, 0 without repository metadata, 0 failed to classify (adopt legacy extension-host chats: false)
+2026-09-06 19:25:36.340 [info] [Claude] SDK not downloaded yet; deferring chat discovery
+2026-09-06 19:25:36.415 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-06 19:25:36.513 [info] [Copilot] Restarting CopilotClient (CAPI proxy configuration changed (proxy (none) -> http://127.0.0.1:7897))
+2026-09-06 19:25:42.201 [info] [Copilot] Auth token updated
+2026-09-06 19:25:42.235 [info] [ClaudeProxyService] listening on http://127.0.0.1:37875
+2026-09-06 19:25:42.235 [info] [Claude] Auth token updated
+2026-09-06 19:25:42.362 [error] #1: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST fetch failed
+2026-09-06 19:25:47.360 [error] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST fetch failed
+2026-09-06 19:25:48.249 [error] [Claude] All attempted model sources failed (merged refresh); keeping last known-good catalog
+2026-09-06 19:25:48.251 [info] [Copilot] Listing models...
+2026-09-06 19:25:48.251 [info] [Copilot] Starting CopilotClient...
+2026-09-06 19:25:48.252 [info] [Copilot] Resolved CAPI proxy and forwarded HTTP_PROXY/HTTPS_PROXY to Copilot SDK
+2026-09-06 19:25:48.252 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-09-06 19:25:48.263 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-09-06 19:25:48.785 [info] [Copilot] CopilotClient started successfully
+2026-09-06 19:25:53.798 [warning] [Copilot] Failed to refresh models (attempt 1), retrying in 814ms Request models.list failed with message: network fetch failed: request failed: error sending request for url (https://api.github.com/copilot_internal/user)
+2026-09-06 19:25:54.612 [info] [Copilot] Listing models...
+2026-09-06 19:25:57.364 [error] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST fetch failed
+2026-09-06 19:25:59.617 [warning] [Copilot] Failed to refresh models (attempt 2), retrying in 1444ms Request models.list failed with message: network fetch failed: request failed: error sending request for url (https://api.github.com/copilot_internal/user)
+2026-09-06 19:26:01.061 [info] [Copilot] Listing models...
+2026-09-06 19:26:03.440 [info] [Copilot] Found 1 models: Auto
+2026-09-06 21:08:22.893 [info] [ProtocolServer] Client disconnected: 50917689-3a51-48c5-a269-54d6bd0b7aa9, subscriptions=1
+2026-09-06 21:08:22.895 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-06 21:08:22.895 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-06 21:08:22.897 [info] AgentService: shutting down all providers...
+2026-09-06 21:08:22.898 [info] [Copilot] Shutting down...

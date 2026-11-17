@@ -1,0 +1,7 @@
+2026-09-06 19:25:47.361 [error] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_CLOSED
+2026-09-06 19:25:54.701 [error] #1: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_CLOSED
+2026-09-06 19:25:57.365 [error] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_CLOSED
+2026-09-06 19:25:57.366 [error] #4: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_CLOSED
+2026-09-06 19:32:05.525 [error] #34: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_CLOSED
+2026-09-06 19:32:17.981 [error] #35: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_CLOSED
+2026-09-06 19:36:05.343 [error] #36: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_CLOSED

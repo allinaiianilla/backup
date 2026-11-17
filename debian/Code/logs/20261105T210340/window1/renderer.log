@@ -1,0 +1,10 @@
+2026-11-05 21:03:41.758 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-11-05 21:03:41.786 [warning] Creation of workbench contribution 'workbench.contrib.agentHostPrewarm' took 23ms.
+2026-11-05 21:03:42.114 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-11-05 21:03:42.347 [info] Started local extension host with pid 5713.
+2026-11-05 21:03:42.737 [info] [AgentHost:renderer] Protocol connection established; clientId=49eb7d4f-d13d-4b30-8e90-c6f550968c39
+2026-11-05 21:03:43.436 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-11-05 21:03:43.637 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-11-05 21:03:48.437 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-11-05 21:03:48.522 [error] [Extension Host] (node:5713) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

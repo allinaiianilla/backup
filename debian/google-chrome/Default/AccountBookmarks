@@ -1,0 +1,290 @@
+{
+   "checksum": "229b1f00201f6c31e4c4754ee48a69e6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13416944178384166",
+            "date_last_used": "13439370652082983",
+            "guid": "827e15cb-fe4b-4ee5-a878-732d46bf585d",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/"
+         }, {
+            "date_added": "13430823293610453",
+            "date_last_used": "13431270672365695",
+            "guid": "5a0982fc-9803-4a30-a173-3a4dd7cb99f8",
+            "id": "49",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google 翻译",
+            "type": "url",
+            "url": "https://translate.google.com/?sl=en&tl=zh-CN&op=translate"
+         }, {
+            "date_added": "13417674144771161",
+            "date_last_used": "13439373466909618",
+            "guid": "66c6484e-6590-4c48-b587-15dcc9196310",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chatgpt.com/"
+         }, {
+            "date_added": "13430806101287539",
+            "date_last_used": "13430806290403070",
+            "guid": "def3fdc1-31e3-4838-a9e0-1cf4f0249212",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JupyterLab",
+            "type": "url",
+            "url": "http://127.0.0.1:8888/"
+         }, {
+            "date_added": "13439351767055800",
+            "date_last_used": "0",
+            "guid": "1b1a86e4-78e2-42d9-bc00-1cd54d2b0289",
+            "id": "87",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WorkBuddy",
+            "type": "url",
+            "url": "https://www.workbuddy.cn/app"
+         }, {
+            "date_added": "13430924684911183",
+            "date_last_used": "13431008138820462",
+            "guid": "bf1ce72d-5b4c-45a3-bad8-67e0b38f1dd4",
+            "id": "60",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Colab",
+            "type": "url",
+            "url": "https://colab.research.google.com/"
+         }, {
+            "date_added": "13417848147834316",
+            "date_last_used": "13430753005737242",
+            "guid": "6093e448-41a9-4082-96c9-f8e3bce7b132",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "codegym-java学习",
+            "type": "url",
+            "url": "https://codegym.cc/zh/progress"
+         }, {
+            "date_added": "13417373525320843",
+            "date_last_used": "0",
+            "guid": "d1c99763-26e9-4a2b-ba76-c633cb28296d",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "第一章 预备知识 — Joyful Pandas 1.0 documentation",
+            "type": "url",
+            "url": "https://inter.joyfulpandas.datawhale.club/Content/ch1.html#"
+         }, {
+            "date_added": "13418049792521283",
+            "date_last_used": "13430843416905476",
+            "guid": "1bb6d4ee-cfaf-4e3b-a3de-9e5d97207a8b",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Z-Library——全球最大的电子书图书馆。通往知识和文化的门户。",
+            "type": "url",
+            "url": "https://z-lib.sk/"
+         }, {
+            "date_added": "13430886517296443",
+            "date_last_used": "13439358311230939",
+            "guid": "19dbd404-b464-4a26-8016-8170a2e9ec95",
+            "id": "54",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "神州信息 外网办公入口",
+            "type": "url",
+            "url": "https://c.dcits.com/dcSetLtpa/index_its.jsp"
+         }, {
+            "date_added": "13430891593283150",
+            "date_last_used": "0",
+            "guid": "2025ceac-7c34-4a5d-9c92-8db5cfe59e12",
+            "id": "55",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Vibe Coding 入门宝典 - 和风 VibeCoding | 和风 - 惠风和畅",
+            "type": "url",
+            "url": "https://www.hefeng.chat/book"
+         }, {
+            "date_added": "13430996982178842",
+            "date_last_used": "13433166125876975",
+            "guid": "c1e72aa8-5ea7-419a-9801-460c3e222828",
+            "id": "65",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Duck.ai",
+            "type": "url",
+            "url": "https://duck.ai/"
+         }, {
+            "date_added": "13432562236444160",
+            "date_last_used": "13433265337412492",
+            "guid": "ce5e46c0-9c95-4ce3-ba44-053c619bd883",
+            "id": "70",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+            "type": "url",
+            "url": "https://www.bilibili.com/?spm_id_from=333.788.0.0"
+         }, {
+            "date_added": "13433157626526435",
+            "date_last_used": "13438357947734606",
+            "guid": "7da0d9a0-02f8-4590-9255-ffafd7109eeb",
+            "id": "75",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "微信文件传输助手网页版",
+            "type": "url",
+            "url": "https://filehelper.weixin.qq.com/"
+         } ],
+         "date_added": "13430721376857294",
+         "date_last_used": "0",
+         "date_modified": "13439351805919180",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "5",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13430757790217405",
+            "date_last_used": "0",
+            "guid": "236b0b72-f6ab-4896-89c8-52d461de35e3",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "test/ebook/software-engineering/NoSilverBullet_zh.md at main · allinaiianilla/test",
+            "type": "url",
+            "url": "https://github.com/allinaiianilla/test/blob/main/ebook/software-engineering/NoSilverBullet_zh.md"
+         } ],
+         "date_added": "13430721376857294",
+         "date_last_used": "0",
+         "date_modified": "13430806101287539",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "6",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13420913788431349",
+            "date_last_used": "0",
+            "guid": "64151f04-6258-4f29-865b-4ad986d6c50a",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "多邻国 - 学得轻松，学有所成的英语 课程！",
+            "type": "url",
+            "url": "https://www.duolingo.com/learn"
+         }, {
+            "date_added": "13424090234902488",
+            "date_last_used": "0",
+            "guid": "ea234f7f-ea1e-4246-85a0-66ef32ca06b4",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "huaren.live",
+            "type": "url",
+            "url": "https://huaren.live/"
+         }, {
+            "date_added": "13424194063693922",
+            "date_last_used": "0",
+            "guid": "a2abf8d3-88eb-4c11-be2e-d59513a986ed",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sony A7R VI 評測：當高像素系列不再龜速！旗艦 A1 II 還有多少優勢？ - DCFever.com",
+            "type": "url",
+            "url": "https://www.dcfever.com/news/readnews.php?id=41409&page=1#"
+         }, {
+            "date_added": "13425879976261438",
+            "date_last_used": "0",
+            "guid": "9e6fcdf1-9b60-4cf5-aeb5-cfc586d8b373",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13427524221102540",
+            "date_last_used": "0",
+            "guid": "b53b9be3-de4f-4762-af71-1b7dec5ca067",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "excel2010试用版过期了想继续使用怎么办?-简道云资讯",
+            "type": "url",
+            "url": "https://www.jiandaoyun.com/article/post/30500.html"
+         }, {
+            "date_added": "13428756645983026",
+            "date_last_used": "0",
+            "guid": "822081eb-74f3-418d-a1ad-37003b35087d",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Colab",
+            "type": "url",
+            "url": "https://colab.research.google.com/github/"
+         }, {
+            "date_added": "13439138710842033",
+            "date_last_used": "0",
+            "guid": "d942bdb9-f68b-45cc-89f9-471bccd867d2",
+            "id": "81",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Basic functions | Learn JavaScript",
+            "type": "url",
+            "url": "https://learnjavascript.online/app.html?id=1436"
+         }, {
+            "date_added": "13439138720326244",
+            "date_last_used": "0",
+            "guid": "4be1e1fb-34ec-4cef-b531-8018ea8901e8",
+            "id": "82",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "学习 Web 开发 | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/zh-CN/docs/Learn_web_development"
+         } ],
+         "date_added": "13430721376857294",
+         "date_last_used": "0",
+         "date_modified": "13439351767055800",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "7",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CnAKUAiIgQISSiAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCQdQLddyYAYAEQdQLddyYAYAKT5qLtdyYAYA6gEMCNTi79cGELDRzZgDEgAqGFdPSnNmVlp1TnMzYnJYRTg3U3JoVlE9PUgDEuwBCFcS5wEKHHZWM01IZ3FxaldwVFp1L2srRXZiVnI3WXJ3Zz0SZlo6QURxdEFadzlvbkplOEtqU2dDWjV5cHZpTmlKcTVLZ3M3dy8rQTlIeU5tanl5cWFKSzY2THBlcVJleE1PbXZ6TVNvdkYyNFJUeDZ6azhpY25hSFpVeWFXSmJ6dlF6aHFwZnc9PRgAIAMoAzCvzoaw6o2YAziQsM24njRA39/PuJ40ShxVMzFWbi9id3pwMURzWmorZnRxMzgwVitpaFU9Wh8iHdlUQ1VaZmJ5L1VRVkUreGhOb3JOY1dEZjlVYms9ZVtfn5MS6wEIJxLmAQocL0lScGlsUTRZQUJYM0J4OVhoY2JNZnR4Z3I0PRJmWjpBRHF0QVp3OW9uSmU4S2pTZ0NaNXlwdmlOaUpxVXlIZzNYMGIvWGkyUDdHejZ2SEl3ckdCWkhqVUlvQ0kzMEZZZ1VLOGo0RzV6TVJUMkwyWmlHOGZIVXpBUFJHQTFZR08yUT09GAAgAigCMKmogpbbk5YDOInU1rb+M0CU1Na2/jNKHFJMYjkrQmpoVUxJOWtBbFVRUThMdGtIb3MyYz1aHiIcK3l5L0VmVXRVS01zZGVaYmZoTk1UTzA5c21ZPWXXkT05EsMBCAcSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeUdKRi9zTHJlYVNKMjB3N0tJelZ3eU9uZ3MyOThENGlreUlDMFdWWU9meEhuVFNvbW1oTzR3eitoaWN3Z2ZMNmVSLzR6Mkx1ZTJ5b0ZYY3VqMmNqd0dCNll3eUE9PRgAIAAoADCmqo347ZWVAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEu4BCFES6QEKHGhGZU5Ic2oxQ2x3MHRXK3FRWnE0b2lNM3l3RT0SZlo6QURxdEFadzlvbkplOEtqU2dDWjV5cHZpTmlKcWJyalBENlNtMlFXbSt2Qk95QTc2Skl2NTBaVWlxU01VaDNuUmF5d3dHQ1h2Q2xvdmNOSDlOUnlHY1YwUWhraWl6T1RncWc9PRgAIAAoADDAlNzH0IeYAzi/uoHTnTRAv7qB0500ShwvTCsraE5zdlE3cWJPb3ZWa0d0UmhTdTBPOUk9Wh8iHf1sa2MwZ1RqbEJDbndDQWkwRGIwL01VR3hnYXc9ZSLdHsRqABLtAQgSEugBChxvcG9rQUJqN3g2V0JJYlhrU0oxVFcra3AzNzA9EmZaOkFEcXRBWnc5b25KZThLalNnQ1o1eXB2aU5pSnFVYVJXSWdVcm9QVUhmcHBCS1hzMysxWnBVSllhNHNLSzE3ZGFmZUFzOUsxNkZ2S0wweDZ2WEM0MktPZEJGSTF2N2JGc2ZRPT0YACAAKAAwhISX85aOkwM4yfrHyMwzQMn6x8jMM0ocT3RhcEo2UE9xVzgxQTZZaWdYNHYxTE96YjJjPVogIh7/2i9vK2RkSGZMMjNZWVR0d3lZMGVSdE9wOUsxRT1lAAAAABLsAQgsEucBChxIT0NXN3lPNGg1T3hPOXErcXQ2cHdIVllzbjg9EmZaOkFEcXRBWnc5b25KZThLalNnQ1o1eXB2aU5pSnFkMk9RVUVtZG4wMHVZd1BUVEd0OE9qN2FzcWVJVDFPZzczN1lkdFJncGVsS09FVEltSG1uQXZiV1Z3OHdRUnNpRFNPZktnPT0YACAGKAYwrIve54+VlgM4p6rbzf4zQMee5s3+M0ocdzlrbzVCNUZPWkNzUk1MWXdXNk9BOHhkS0JzPVofIh3PTlUzVWs0WWlxUjBaZEdXRzdYOTQzazllWUpBPWXDT4NSEqsBCAUSpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaejRyZm1CbXRXTmR2K1pyV1RCenNUTlJUNXNMTUVJemxFVTlPMzJnVHpBUU03U21FNTRkLzRwY1A1VitFcG1XVTI0eDMyeBgAIAAoADCmqo347ZWVAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEu4BCBUS6QEKHGRZdjU1Z2NzNHBMdFVVNFpqQW9nOVJUV0pPOD0SZlo6QURxdEFadzlvbkplOEtqU2dDWjV5cHZpTmlKcXZzV1RDTzh5eGpXbGdLbjJtMFA3V0t5L2lBbVppcXNzRzNJMmFYNVd1L0M4Mys5bHI4eVJNSXBvZ3dlR3VpSGQrSERzM3c9PRgAIAUoBTD6tZXhrJeWAziJhISLzzNAv+qi8v4zShw2bG1ZcjVDWEN6SzNjNDNLRVZaWFBNZWZrQ1E9WiEiH///uDN5akF1Nno4S0RUUmRvNkd4TWtpUHVYOVY3az1llMl/MBLxAQg2EuwBChxGb0VWQTNoTCt0S0RNMWtpbVRpZ2dZcDZmMlU9EmZaOkFEcXRBWnc5b25KZThLalNnQ1o1eXB2aU5pSnF5NXNpWVBzQXhBU2dBTUltakFpY0IvSGZ3M1VVYlE5aW4xeFl5d1pKQmgwMjZ1T3RDQUp3MzlRWmxsUWFmSE1wZ0t6OFVRPT0YACAEKAQwqIjKgb6XlwM4sMSH9P4zQKX80KWPNEocc1hNc2s5bk91c3lJazZIUE1rY3FBNnRjTVI4PVoiIiD///+pSDlzYjRwSXk1Y1pBc2t3RDlIZmI0ZlRudFhjPWW7hHWSagAS7QEICRLoAQocK1lINmdEZDczNzE2SE1sN2xtMnJwSHFiVis0PRJmWjpBRHF0QVp3OW9uSmU4S2pTZ0NaNXlwdmlOaUpxUEJRYk01QWhTZ3BzMFQ5Yzcrak9vaURwdlZXTmlSUmVXWi9uVXNsZWRmRGNiQ0xpdFBvN2xzWXcwYm9qUHZET3FoZGE5Zz09GAAgCCgIMKDOoLPojZgDOKKzgrrMM0C/rq+4njRKHEh5dkZzeUxPZjRXbWJrREczNXp5Y2VSanh1WT1aHiIcdGsrWG83b0NWditIUHVhMGRkQnJVTXNaUE1nPWVi6bJJagAS7wEINxLqAQocMEI0aVpOWlpKVnJkdElvRStWRkp4aGVOSlVnPRJmWjpBRHF0QVp3OW9uSmU4S2pTZ0NaNXlwdmlOaUpxNUt0QVlUdU1Ram0waGROTkVWTCtrenFkdHlMTWwySjhtSUxiYk9wZ3FXTk9CWXN1V1BuTjhCY1R4VXY1UEJUSkM3bXVyZz09GAAgAigCMKjNp9DNl5YDOMOsvfb+M0DNrL32/jNKHEQzbVNkNCtsbzZjZ21KMC9obGVSS01yTHRRZz1aIiIg////1ENBUFptWFdHaXFnclowUmoxS3NsV1dhQ3VQdz1l+TA+FxLsAQgeEucBChwzTm11ZU1DWU5ZZjk4QzlUMmJNSmdEL29DTFE9EmZaOkFEcXRBWnc5b25KZThLalNnQ1o1eXB2aU5pSnFYRXZwWUJXcHN0Q3hycWV6cFFRVlNGejc0VDd5Y095cGlEOHR2cFUvd1JGQ2wyTXQ2Q0FxZFJIWXlBUWlIVU91WVN3TktBPT0YACAAKAAwx9Goy9TRlAM4l7Cry+UzQJewq8vlM0ocaExpM0svbm9IVXVLT2hIQlNabklzVi8rVTlnPVofIh2yWlBMekdvazIzTzhWMnJOZm5PU3hDanVvYTZBPWUScPIOEusBCB0S5gEKHGhmUi8xS1dJU3oyRmxaTDAxL2d4UzVWc3JmVT0SZlo6QURxdEFadzlvbkplOEtqU2dDWjV5cHZpTmlKcThKZUp6ZUt4cUtRQXo5MkVQOU52TmQ5c3N4ejU2Q3RucGVGTzR6US9rWjRINnRyQWJWWkNPdWtpN0pNK2JYWHEwMldNRnc9PRgAIAAoADCa9qK0m/WTAziRvNjg2TNAkbzY4NkzShxKU3BMMjFkSGh6OVdNVWV3QU03djRmR1NqeTA9Wh4iHGRTTWxiOFpvSWRTSEJvOEl5ZjJjUGMweW1kWT1lVEhA6BLsAQgxEucBChw4bUNEc1JOUlFvR1JseWQ5NTlnQ2MyWHprQlU9EmZaOkFEcXRBWnc5b25KZThLalNnQ1o1eXB2aU5pSnFRVmNGN0xqMXdIaDNsOU1IcVhGK3RoYmh1a050bnd1dUpGeEY4Z1hFSWIwMTR3eCtrQmt1b0tiY1Y3Nm5OYzNQeHQ4MjdBPT0YACADKAMwhoKUvM+VlgM4qtX01f4zQKue+dX+M0ocVDFBZ1N0QUd1bzRnaXFnRDZ4Uy9hRExEMXRjPVofIh2OQjA5UWVnOHI2SDZtNitHazUyU0hWRXBVWE5rPWWcC6o2Eu8BCEES6gEKHGMxc2Q2a2YveDVGT25uT3RDM2tJQmM4T2dPUT0SZlo6QURxdEFadzlvbkplOEtqU2dDWjV5cHZpTmlKcWhoVTUwVWE5aWluNFdDZXh1dGQ5YzZNamlwREM4YXZlQnNFNE9nVTNrWUxYbW52R21QYkUzcDdCNnF1cTdPRXE4aEJuTUE9PRgAIAMoAzCG58mh1pqWAzij492o/zNAgaTeqP8zShxDMVFpcmxmUm5TVGVOWGhSQ0t0ZDdlY0N4RWs9WiIiIP///+pOMGo0UkdhcnRHT2ZOZ0tVQnNJcXg3VkVXbXM9ZXU/YKES7AEIIRLnAQocb3krQ0dxdmcyeEg2VjF6Mm45RnM0Qi9Mb0lBPRJmWjpBRHF0QVp3OW9uSmU4S2pTZ0NaNXlwdmlOaUpxOG1oZ1V3em0vclR3ZEJneitxeEFza2NyVFhMSGM1SlpIZVdwa0QvR2JCRURWWFZmdldWNXZ2RkhZdnBQc05lYVpSY1ZtUT09GAAgACgAMP6L+ZnNtZUDOK+h5bDyM0CvoeWw8jNKHDUrbzEvR0Zwa25ZamlPWXlyWnRTaW1BM2U0MD1aHyId9jRtaXlqSGY2TGlFL1k2SXBySERvOC90aCtvZz1lAAAAABLvAQhGEuoBChxQd1Q0a1EzRHpiNUFoUkRDZEpQZEw4c2xhQWs9EmZaOkFEcXRBWnc5b25KZThLalNnQ1o1eXB2aU5pSnFkaDlkbGVtV1RjTWUrOFRwVzNmMU52RXVoTFpCb2VVWitZelcwQ0pOOERWcnZtVkQ1SExVWVpoL3BFUFgveTFXb1ZaY2dnPT0YACACKAIwjLb+oJ3IlgM4n6iNk4U0QKqojZOFNEocK21KdllmZ09mNFprdTh6YUN2VTdxS2c3VnpjPVoiIiD////1WUduUnBOOTZaK2p1UXhXZVFqd1RRdkJ5Z3ZZPWWkXjzXEu8BCEsS6gEKHGFUTGdLUmdxVW9EeFlDdU12SS8weWxNZW96bz0SZlo6QURxdEFadzlvbkplOEtqU2dDWjV5cHZpTmlKcXhPRHdKck1hMHBhcUJJRWFRM2NFWHJtWWxsc0hzcHl0UHE1QWJiK3B5MHFlWEpGWXZXZUgzRXRXajhLNkhvZjl6Q2wzV0E9PRgAIAIoAjC7z5yhx9mWAziehYGvhzRAqYWBr4c0ShxOb1p6QXE4bGY3ckJ3U2wycFZGSjBuanVoczA9WiIiIP////p1bUkyeitEVE5mOWMvR1R5MWpxQTI1dUVJR009ZWXoGHASwwEIBhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4RmV4UUwrcDRmZzdOQzQ4czQ1VjhNUU5QdkxDVEo5NXkxQVRNZk9jSWl3YlJCdktMcTNCZkJ3aUk4WVFmL294c2lQak1EcStGU1hMOG1ubDJ4Zm8xa0xpUXZYZz09GAAgACgAMKaqjfjtlZUDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7gEIUhLpAQocOVdRcFAxd2YrenhWQk1CR1EzL0N6Y28vaGUwPRJmWjpBRHF0QVp3OW9uSmU4S2pTZ0NaNXlwdmlOaUpxWnF3L2dPYkhyUHoxenJ0TkhiYmZPOHlBWXNxVlRZT1ludXltUGpxUllUbW9KenpYOFgvTU90cWs1M2lvZnVzNzJreGZIQT09GAAgACgAMJmL+8vQh5gDOMqEgtOdNEDKhILTnTRKHEFiSHhrVHZ1Q1czclYvbmYvSlE2d0FzdGUraz1aHyId/i9uNTY2WVhkblk3NWNteStrMzkwTTZGdlA0az1lD6v4jWoAEuwBCAsS5wEKHHVBazV0N3NudzhTaW5XUU0yOCtoWjBwTEt1WT0SZlo6QURxdEFadzlvbkplOEtqU2dDWjV5cHZpTmlKcUk4VjFQcEtzc29Dd1o5QVRDUE1QSkRSMlBmUTcvQUJuYU1ROThTZVBMUGFRR1A4bzBpODgrZkQ3eEZUT3lNZEFsTk9CZWc9PRgAIAEoATCyw6mw9PCXAziDqPTXzTNAtZji3po0Shx0d3ZlQ205UWVZTVZKcURTQ3FMdVQ4cGpWMjA9Wh8iHag5WGVjK044eTBCWlV4ZTY2ekN5ODd6QTVha2s9ZaBJHdgS7AEIIBLnAQocREN3RFhCWFllcU83aXdqQVdSTXVMSC95d0V3PRJmWjpBRHF0QVp3OW9uSmU4S2pTZ0NaNXlwdmlOaUpxVjRycWRXcEZPMzVkdnVaeHZ2b2l4cEkrZ0JvREw1V2pBZTJvaFIyeU1iUXNsU2RCTEJQUnpqY3g0dHZLc0hEYzR5VUpQdz09GAAgACgAMLb0jvPfhZUDOMbC4KDsM0DGwuCg7DNKHGJCUlhHR05hRXNkbFFGbWJQTWMrSU1kYWt6VT1aHyId7GliaTRXSUIzZTZrQUJHRnF3NytWanhCTzdUWT1l15E9ORLsAQg8EucBChxuRzlHSTd5OUpBN0ZmVDIzd2VjaTdrTklEeE09EmZaOkFEcXRBWnc5b25KZThLalNnQ1o1eXB2aU5pSnE4WDZWM2poRDFTbjJ5ZEZ4S3FLN2d5MVFtcm91WEpoZmQ1ZjBpajJLQkJLYzJnbHBoeHEvNjRWQk01NjhYNlU0bXZZWi93PT0YACADKAMw4aCh98iYlgM474yhhv8zQLPIoYb/M0ocQU43MjJSbDZsVFlXclJDTEZyR3BsQTdHZjZrPVofIh3kOUZRWTNnQUZHbDdsT2N6aFY1bm9nbzdkWENjPWUTLcUkEuwBCA8S5wEKHEpOa01CNW8zcDFvTDcyeEIwQndpZXVMNktnUT0SZlo6QURxdEFadzlvbkplOEtqU2dDWjV5cHZpTmlKcVYzNFhzVWN6Q3dDVEcwRlNhVzVkQVlhQWJaNVRjUmJDTkl5UkRiRytJNlZYT3NMSVFYRkFhOHM1RldxS1NSQlJwWERpWGc9PRgAIAAoADCmhbOMnaSTAzj6zvCqzjNA+s7wqs4zShxKWGJCOGNhbEZJTEIwWW1NRmc3MnJGYVcxREU9Wh8iHflGdGhBZW12U3p2elNOVlhTL25BZTFhUm1qdlU9ZYkxzyMS7AEIHxLnAQocd0VYcURkUVUyK2dKdzAwTmtXZ2ZzVGRwcXFnPRJmWjpBRHF0QVp3OW9uSmU4S2pTZ0NaNXlwdmlOaUpxOEltWEV0ZWRjd2VHRjYwR003Vitnejh6QjltdmtpVGRuRU8veWR1Wjl0WDVSa2FWR1dueGUxMlFrKzB6YnNRLzFmTlg0Zz09GAAgACgAMK/VyLHX1JQDONLK7PzlM0DSyuz85TNKHGVTSkI0Nld1bWhHaVQrV0MzWlJFNVRRRXpUYz1aHyId2XhmdGhleDJ3NlBkelVQY2p2RGNaVUR2QzAvVT1lTSbQERLsAQgiEucBChw5dCs5YmI4RmJkcVA2THNsMCt6bDhGaUpMMXM9EmZaOkFEcXRBWnc5b25KZThLalNnQ1o1eXB2aU5pSnFVbEVYQTNrRUxkWk82L2UwU3RKakdhdWRGSzk2bG5GZ1FzaUFHVzJSb3hRNlBIRXkrT3EvZFlEZWlhMUhEM25nYUlNV0tBPT0YACABKAEw/bLwj8rClgM44cC6/PYzQPPOxbaENEoccFdpbnBPclF6K2w0WldXN2djaCtud1lZaFhBPVofIh37eGY1VWN4aGM5a280b2dXd2JvdWVVdHlZSkV3PWVEBT63MAE4AA==",
+   "version": 1
+}

@@ -1,0 +1,32 @@
+2026-08-13 08:25:54.397 [info] Agent Host process started successfully
+2026-08-13 08:25:54.438 [info] AgentService initialized
+2026-08-13 08:25:54.461 [info] Registering agent provider: copilotcli
+2026-08-13 08:25:54.467 [info] Registering agent provider: claude
+2026-08-13 08:25:54.472 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-08-13 08:25:54.534 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-080187cd835a/Q7P6RY19bHXNdEKIamRjmQ.sock
+2026-08-13 08:25:54.537 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-08-13 08:25:54.538 [info] [ProtocolServer] Initialize: clientId=5a779c27-55bf-45d0-97f3-2c9e4aa4687e, protocolVersions=[0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-08-13 08:25:55.213 [info] [Copilot] Listing sessions...
+2026-08-13 08:25:55.213 [info] [Copilot] Starting CopilotClient...
+2026-08-13 08:25:55.224 [info] [Claude] SDK not downloaded yet; deferring session list until a session triggers the download
+2026-08-13 08:25:56.223 [info] [Copilot] Resolved CAPI proxy and forwarded HTTP_PROXY/HTTPS_PROXY to Copilot SDK
+2026-08-13 08:25:56.223 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-08-13 08:25:56.230 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-08-13 08:25:57.196 [info] [Copilot] CopilotClient started successfully
+2026-08-13 08:25:57.199 [info] [Copilot] Found 0 sessions
+2026-08-13 08:26:32.933 [info] [Copilot] Auth token updated
+2026-08-13 08:26:32.967 [info] [ClaudeProxyService] listening on http://127.0.0.1:44917
+2026-08-13 08:26:32.967 [info] [Claude] Auth token updated
+2026-08-13 08:26:35.394 [info] [Copilot] Enhanced (restricted) telemetry enabled for this account
+2026-08-13 08:26:35.898 [info] [Copilot] Listing models...
+2026-08-13 08:26:37.131 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-08-13 08:26:38.049 [info] [Copilot] Found 1 models: Auto
+2026-08-13 08:27:18.655 [info] [ProtocolServer] Client disconnected: 5a779c27-55bf-45d0-97f3-2c9e4aa4687e, subscriptions=1
+2026-08-13 08:27:19.568 [info] [ProtocolServer] Initialize: clientId=ea73765c-0eeb-4302-a1c8-e6ec43c67775, protocolVersions=[0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-08-13 08:27:20.633 [info] [Copilot] Enhanced (restricted) telemetry disabled
+2026-08-13 08:27:20.633 [info] [Copilot] Auth token unchanged
+2026-08-13 08:27:20.633 [info] [Claude] Auth token unchanged
+2026-08-13 08:27:20.633 [info] [Copilot] Enhanced (restricted) telemetry enabled for this account
+2026-08-13 08:27:20.711 [info] [Copilot] Listing sessions...
+2026-08-13 08:27:20.712 [info] [Claude] SDK not downloaded yet; deferring session list until a session triggers the download
+2026-08-13 08:27:20.713 [info] [Copilot] Found 0 sessions

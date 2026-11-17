@@ -1,0 +1,143 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "721593d9de3efedc0c345006b0522292e615530c38d84ee291a1792afc557958",
+    "telemetry.devDeviceId": "6c284bfb-2422-49ff-a88d-4fda3938205d",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/ni/ni"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/ni/ni": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs",
+    "themeBackground": "#ffffff",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs",
+        "colorInfo": {
+            "foreground": "#202020",
+            "background": "#ffffff",
+            "editorBackground": "#ffffff",
+            "titleBarBackground": "#fafafd",
+            "titleBarBorder": "#f0f1f2",
+            "activityBarBackground": "#fafafd",
+            "activityBarBorder": "#f0f1f2",
+            "modernActivityBarBackground": "#fafafd",
+            "modernActivityBarInactiveBackground": "#fafafd",
+            "modernActivityBarBorder": "#e5e5e5",
+            "sideBarBackground": "#fafafd",
+            "sideBarBorder": "#f0f1f2",
+            "panelBackground": "#fafafd",
+            "editorGroupBorder": "#e5e5e5",
+            "editorBorder": "#e4e5e6",
+            "surfaceBackground": "#ffffff",
+            "surfaceBorder": "#e4e5e6",
+            "agentsPanelBackground": "#ffffff",
+            "agentsPanelBorder": "rgba(228, 229, 230, 0.67)",
+            "statusBarBackground": "#fafafd",
+            "statusBarBorder": "#f0f1f2",
+            "statusBarNoFolderBackground": "#f0f0f3"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 240,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 28,
+            "windowBorder": false,
+            "modernUI": true,
+            "modernUICompact": false,
+            "partBounds": {
+                "activityBar": {
+                    "top": 35,
+                    "left": 4,
+                    "width": 44.000003814697266,
+                    "height": 912.0000610351562,
+                    "outerEdges": {
+                        "left": true,
+                        "right": false,
+                        "top": true,
+                        "bottom": true
+                    }
+                },
+                "sideBar": {
+                    "top": 35,
+                    "left": 48.000003814697266,
+                    "width": 240.00001525878906,
+                    "height": 911.1428833007812,
+                    "outerEdges": {
+                        "left": false,
+                        "right": false,
+                        "top": true,
+                        "bottom": true
+                    }
+                },
+                "panel": {
+                    "top": 561,
+                    "left": 292,
+                    "width": 1032,
+                    "height": 385.14288330078125,
+                    "outerEdges": {
+                        "left": false,
+                        "right": true,
+                        "top": false,
+                        "bottom": true
+                    }
+                },
+                "editor": {
+                    "top": 35,
+                    "left": 292,
+                    "width": 1032,
+                    "height": 521.1428833007812,
+                    "outerEdges": {
+                        "left": false,
+                        "right": true,
+                        "top": true,
+                        "bottom": false
+                    }
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/ni/ni",
+            "backupPath": "/home/ni/.config/Code/Backups/d87ab9b3daa7e654de67326ab677f2f5",
+            "uiState": {
+                "mode": 1,
+                "x": 16,
+                "y": 10,
+                "width": 1328,
+                "height": 979
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 240,
+            "auxiliaryBarWidth": 240,
+            "workspaces": {
+                "d330545d5a9b8a5e1356867721ad718d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3ca7c66413675e54d1c6c70edd275250": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}
