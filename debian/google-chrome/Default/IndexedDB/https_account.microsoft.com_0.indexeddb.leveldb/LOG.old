@@ -1,6 +1,0 @@
-2026/11/17-15:07:17.803 ac3 Creating DB /home/ni/.config/google-chrome/Default/IndexedDB/https_account.microsoft.com_0.indexeddb.leveldb since it was missing.
-2026/11/17-15:07:17.828 ac3 Reusing MANIFEST /home/ni/.config/google-chrome/Default/IndexedDB/https_account.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/11/17-15:10:45.856 ac6 Level-0 table #5: started
-2026/11/17-15:10:45.864 ac6 Level-0 table #5: 1384 bytes OK
-2026/11/17-15:10:45.875 ac6 Delete type=0 #3
-2026/11/17-15:10:45.875 ac6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

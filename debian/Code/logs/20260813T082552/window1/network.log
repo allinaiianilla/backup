@@ -1,7 +1,0 @@
-2026-08-13 08:29:20.831 [error] #27: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-azuretools/vscode-containers/latest - error GET Canceled
-2026-08-13 08:29:20.831 [error] #28: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot/latest - error GET Canceled
-2026-08-13 08:29:20.831 [error] #29: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/donjayamanne/githistory/latest - error GET Canceled
-2026-08-13 08:29:20.831 [error] #30: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/eamodio/gitlens/latest - error GET Canceled
-2026-08-13 08:29:20.831 [error] #31: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/davidanson/vscode-markdownlint/latest - error GET Canceled
-2026-08-13 08:29:20.831 [error] #32: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/vscodevim/vim/latest - error GET Canceled
-2026-08-13 08:29:20.832 [error] #25: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled

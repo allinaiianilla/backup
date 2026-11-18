@@ -63,7 +63,12 @@ def git_update(repo_path):
 # 更新备份文件,更新git仓库到远程
 
 subprocess.run(
-    "rm -rf /home/ni/ni/git/backup/debian/.config && cp -r ~/.config /home/ni/ni/git/backup/debian",
+    "rm -rf /home/ni/ni/git/backup/debian/.config",
+    shell=True,
+    check=True
+)
+subprocess.run(
+    "cp -r /home/ni/.config /home/ni/ni/git/backup/debian/",
     shell=True,
     check=True
 )

@@ -1,6 +1,0 @@
-2026/08/16-18:22:18.490 4944 Creating DB /home/ni/.config/google-chrome/Default/IndexedDB/https_account.wps.cn_0.indexeddb.leveldb since it was missing.
-2026/08/16-18:22:18.512 4944 Reusing MANIFEST /home/ni/.config/google-chrome/Default/IndexedDB/https_account.wps.cn_0.indexeddb.leveldb/MANIFEST-000001
-2026/08/16-18:22:20.793 4943 Level-0 table #5: started
-2026/08/16-18:22:20.801 4943 Level-0 table #5: 1237 bytes OK
-2026/08/16-18:22:20.811 4943 Delete type=0 #3
-2026/08/16-18:22:20.811 4943 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,7 +1,0 @@
-2026-11-05 21:03:50.373 [info] [GitExtensionServiceImpl] Initializing Git extension service.
-2026-11-05 21:03:50.373 [info] FetcherService: Experimentation service not available yet, using default fetcher configuration.
-2026-11-05 21:03:50.373 [info] Using the Electron fetcher.
-2026-11-05 21:03:50.373 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
-2026-11-05 21:03:50.373 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
-2026-11-05 21:03:50.373 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
-2026-11-05 21:03:50.420 [info] Logged in as allinaiianilla
