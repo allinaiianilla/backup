@@ -1,0 +1,5 @@
+2026/11/17-15:46:11.465 5 Creating DB /home/ni/.config/Codex/Default/Local Storage/leveldb since it was missing.
+2026/11/17-15:46:11.517 5 Reusing MANIFEST /home/ni/.config/Codex/Default/Local Storage/leveldb/MANIFEST-000001
+2026/11/17-15:47:11.522 5 Level-0 table #5: started
+2026/11/17-15:47:11.566 5 Level-0 table #5: 2283252 bytes OK
+2026/11/17-15:47:11.575 5 Delete type=0 #3

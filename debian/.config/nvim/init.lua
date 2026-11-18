@@ -1,0 +1,128 @@
+-- 1. 全自动下载并安装 lazy.nvim
+local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
+if not (vim.uv or vim.loop).fs_stat(lazypath) then
+  vim.fn.system({
+    "git",
+    "clone",
+    "--filter=blob:none",
+    "https://github.com/folke/lazy.nvim",
+    "--branch=stable",
+    lazypath,
+  })
+end
+vim.opt.rtp:prepend(lazypath)
+
+-- 颜色和字体基础设置
+vim.opt.termguicolors = true
+
+-- 2. 常规设置
+vim.opt.mouse = "a"
+vim.opt.number = true        -- 显示行号
+vim.opt.relativenumber = true -- 显示相对行号
+vim.opt.hlsearch = true      -- 搜索高亮
+vim.opt.incsearch = true     -- 边输入边高亮
+vim.opt.ignorecase = true    -- 搜索忽略大小写
+vim.opt.smartcase = true     -- 但输入大写时区分大小写
+
+-- 2.1 Python 常用设置：4 空格缩进、tab 转空格、自动缩进
+vim.opt.expandtab = true     -- 用空格代替 tab
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
+vim.opt.softtabstop = 4
+vim.opt.autoindent = true
+
+vim.opt.clipboard = "unnamedplus"
+-- vim.keymap.set("n","<leftMouse>","<leftMouse>i")
+vim.keymap.set("i", "<C-l>", "<Right>")
+-- 窗口左右跳转
+vim.keymap.set("n", "<C-h>", "<C-w>h", { silent = true })
+vim.keymap.set("n", "<C-l>", "<C-w>l", { silent = true })
+
+
+-- 3. 插件安装（删除了设置给环境变量），下面各插件配置
+
+-- toggleterm 配置函数（必须先定义再被 tablesetup 引用）
+local function config_toggleterm()
+  require("toggleterm").setup({
+    size = 8,
+    open_mapping = [[<C-\>]],
+    direction = "horizontal",
+  })
+  -- \t 开关终端
+  vim.keymap.set('n', '<Leader>t', '<Cmd>ToggleTerm<CR>', { silent = true })
+end
+
+require("lazy").setup({
+  {
+    "nvim-neo-tree/neo-tree.nvim",
+    branch = "v3.x",
+    dependencies = {
+      "nvim-lua/plenary.nvim",
+      "nvim-tree/nvim-web-devicons",
+      "MunifTanjim/nui.nvim",
+    },
+    config = function()
+      require("neo-tree").setup({
+        window = {
+          width = 28,
+          mappings = {
+              -- 绑定 gy 键，一键复制当前文件/目录的绝对路径到系统剪切板
+              ["gy"] = function(state)
+                local node = state.tree:get_node()
+                local path = node:get_id() -- 获取绝对路径
+                
+                vim.fn.setreg("+", path)   -- 写入系统剪切板
+                vim.notify("已复制路径: " .. path, vim.log.levels.INFO, { title = "Neo-tree" })
+              end,
+            },
+        },
+      })
+
+      -- 快捷键设置：使用系统默认的 \ 键。按下 \ 键再快速按下 e 键触发
+      vim.keymap.set('n', '<Leader>e', ':Neotree toggle<CR>', { silent = true })
+    end
+  },
+  {
+    "nvim-telescope/telescope.nvim",
+    tag = "0.1.8",
+    dependencies = {
+      "nvim-lua/plenary.nvim",
+    },
+    config = function()
+      local builtin = require("telescope.builtin")
+      -- \f 搜索文件  \g 搜索内容(grep)  \b 搜索缓冲区
+      vim.keymap.set('n', '<Leader>f', builtin.find_files, {})
+      vim.keymap.set('n', '<Leader>g', builtin.live_grep, {})
+      vim.keymap.set('n', '<Leader>b', builtin.buffers, {})
+    end
+  },
+  {
+    "akinsho/toggleterm.nvim",
+    version = "*",
+    config = config_toggleterm,
+  },
+  {
+    "projekt0n/github-nvim-theme",
+    name = "github-theme",
+    lazy = false,
+    priority = 1000,
+    config = function()
+      require('github-theme').setup({})
+      vim.cmd('colorscheme github_light_default')
+    end,
+  }
+})
+
+-- 设置输入法
+require("input_method")
+
+-- Neovide 专用设置
+if vim.g.neovide then
+
+  -- 窗口边距
+  vim.g.neovide_scale_factor = 1.0
+  vim.g.neovide_padding_top = 0
+  vim.g.neovide_padding_bottom = 0
+  vim.g.neovide_padding_left = 0
+  vim.g.neovide_padding_right = 0
+end
