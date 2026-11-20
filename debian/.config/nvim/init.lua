@@ -31,12 +31,25 @@ vim.opt.shiftwidth = 4
 vim.opt.softtabstop = 4
 vim.opt.autoindent = true
 
+-- Python 文件强制 4 空格缩进（只作用于 python，不影响其他文件类型）
+vim.api.nvim_create_autocmd("FileType", {
+  pattern = "python",
+  callback = function()
+    vim.opt_local.expandtab = true
+    vim.opt_local.tabstop = 4
+    vim.opt_local.shiftwidth = 4
+    vim.opt_local.softtabstop = 4
+  end,
+})
+
 vim.opt.clipboard = "unnamedplus"
 -- vim.keymap.set("n","<leftMouse>","<leftMouse>i")
 vim.keymap.set("i", "<C-l>", "<Right>")
 -- 窗口左右跳转
 vim.keymap.set("n", "<C-h>", "<C-w>h", { silent = true })
 vim.keymap.set("n", "<C-l>", "<C-w>l", { silent = true })
+-- 窗口上下跳转
+vim.keymap.set("n", "<C-j>", "<C-w>j", { silent = true })
 
 
 -- 3. 插件安装（删除了设置给环境变量），下面各插件配置
@@ -47,9 +60,83 @@ local function config_toggleterm()
     size = 8,
     open_mapping = [[<C-\>]],
     direction = "horizontal",
+    start_in_insert = true,
+    persist_mode = false, -- 每次打开终端都强制进入输入模式, 不记忆上次的普通模式状态
   })
   -- \t 开关终端
   vim.keymap.set('n', '<Leader>t', '<Cmd>ToggleTerm<CR>', { silent = true })
+
+  vim.api.nvim_create_autocmd({ "BufEnter", "WinEnter" }, {
+    callback = function()
+      if vim.bo.buftype == "terminal" then
+        vim.cmd("startinsert")
+      end
+    end,
+  })
+
+  local last_python_buf = nil
+
+  vim.api.nvim_create_autocmd({ "BufEnter", "BufWritePost" }, {
+    callback = function()
+      if vim.bo.filetype == "python" then
+        last_python_buf = vim.api.nvim_get_current_buf()
+      end
+    end,
+  })
+
+  local function run_python()
+    if vim.bo.buftype == "terminal" then
+      vim.cmd("ToggleTerm")
+    end
+
+    local buf
+    if vim.bo.filetype == "python" then
+      buf = vim.api.nvim_get_current_buf()
+    else
+      buf = last_python_buf
+    end
+
+    if not buf or not vim.api.nvim_buf_is_valid(buf) then
+      vim.notify("没有可运行的 Python 文件", vim.log.levels.WARN)
+      return
+    end
+
+    local file = vim.api.nvim_buf_get_name(buf)
+    if file == "" or vim.fn.filereadable(file) == 0 then
+      vim.notify("没有可运行的 Python 文件", vim.log.levels.WARN)
+      return
+    end
+
+    if vim.bo[buf].modified then
+      vim.api.nvim_buf_call(buf, function()
+        vim.cmd("silent write")
+      end)
+    end
+
+    local dir = vim.fn.fnamemodify(file, ":h")
+    require("toggleterm").exec(
+      "cd " .. vim.fn.shellescape(dir) .. " && python3 " .. vim.fn.shellescape(file),
+      1,
+      8,
+      dir,
+      "horizontal",
+      "python",
+      false
+    )
+  end
+
+  vim.keymap.set({ "n", "t" }, "<F5>", run_python, {
+    silent = true,
+    desc = "运行上一次编辑的 Python 文件",
+  })
+  -- 插入模式下 F5: 先退出插入模式(run_python 会自动保存改动)再运行
+  vim.keymap.set("i", "<F5>", function()
+    vim.cmd("stopinsert")
+    run_python()
+  end, {
+    silent = true,
+    desc = "保存并运行 Python 文件",
+  })
 end
 
 require("lazy").setup({
@@ -63,6 +150,12 @@ require("lazy").setup({
     },
     config = function()
       require("neo-tree").setup({
+        filesystem = {
+          filtered_items = {
+            hide_dotfiles = false,   -- 显示隐藏目录和文件(以 . 开头)
+            hide_gitignore = false,  -- 显示被 .gitignore 忽略的文件
+          },
+        },
         window = {
           width = 28,
           mappings = {
@@ -78,8 +171,9 @@ require("lazy").setup({
         },
       })
 
-      -- 快捷键设置：使用系统默认的 \ 键。按下 \ 键再快速按下 e 键触发
+      -- 快捷键设置：使用系统默认的 \ 键。按下 \ 键再快速按下 e 键触发; Ctrl+] 等效
       vim.keymap.set('n', '<Leader>e', ':Neotree toggle<CR>', { silent = true })
+      vim.keymap.set({ 'n', 'i' }, '<C-]>', '<Cmd>Neotree toggle<CR>', { silent = true })
     end
   },
   {

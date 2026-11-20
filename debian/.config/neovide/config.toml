@@ -1,6 +1,8 @@
 # Neovide 窗口：80列 × 30行
 # grid = "135x54"
-grid = "80x30"
+grid = "115x54"
+# grid = "80x30"
+chdir = "/home/ni/ni"
 
 # 不记住上一次窗口大小
 # 这样每次启动都按照上面的 grid 来
