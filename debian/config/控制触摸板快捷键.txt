@@ -1,0 +1,4 @@
+gsettings get org.gnome.desktop.peripherals.touchpad send-events
+
+gsettings set org.gnome.desktop.peripherals.touchpad send-events disabled
+gsettings set org.gnome.desktop.peripherals.touchpad send-events enabled
